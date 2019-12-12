@@ -1,0 +1,3 @@
+The dependancies packages are all listend in the package.json. They can be installed using the command npm install. Run the file called app.js (node app.js).
+When app.js is being run you can access the todo app from a browser at localhost:4000/todo. items can be added by typing what item you want and clicking add item.Items can be deleted
+by clicking on the item. The app should connect to mongodb from any ip address
